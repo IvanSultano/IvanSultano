@@ -30,7 +30,20 @@
 
 <a href="mailto:ivan.domingues@hotmail.com">
     <img  borderradius="1" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
-</a>
+</a><br><br>
+
+<p align="left">
+  <strong>Linguagens de programação:</strong><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,c,py,&theme=dark)](https://skillicons.dev)
+</p><br>
+
+<p align="left">
+  <strong>Tecnologias:</strong><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,c,py,&theme=dark)](https://skillicons.dev)
+</p><br>
+
 
 
 
