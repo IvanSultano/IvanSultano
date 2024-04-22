@@ -41,9 +41,14 @@
 <p align="left">
   <strong>Tecnologias:</strong><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,c,py,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,html,css,git,&theme=dark)](https://skillicons.dev)
 </p><br>
 
+<p align="left">
+  <strong>Outros:</strong><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,html,css,git&theme=dark&perline=4)](https://skillicons.dev)
+</p><br>
 
 
 
