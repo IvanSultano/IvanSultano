@@ -33,10 +33,6 @@
   <img align="center" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 </div>
 
-### Entre em contato
-- 📱 (19) 9 9427-9898
-- 📫 Este é o meu e-mail pra contato: *ivan.domingues@hotmail.com*
-
 ### Um pouco sobre mim 
 
 ###### Sou o Ivan Sultano, um entusiasta da tecnologia com uma sólida base educacional e experiência prática no campo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na renomada FACENS e atuando como estagiário de desenvolvimento Front-end na MRS.
