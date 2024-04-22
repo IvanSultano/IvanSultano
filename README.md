@@ -16,7 +16,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 </a>
 
-<a href="ivan.domingues@hotmail.com">
+<a href="mailto:ivan.domingues@hotmail.com">
     <img  borderradius="1" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
 </a>
 
