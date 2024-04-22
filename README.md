@@ -6,7 +6,21 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSultano&layout=compact)
 
-(https://www.linkedin.com/in/ivan-sultano)
+<h3>Entre em contato:</h3>
+
+<a href="https://www.linkedin.com/in/ivan-sultano">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a>
+
+<a href="https://wa.me/19994279898">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+</a>
+
+<a href="ivan.domingues@hotmail.com">
+    <img src="https://i.pinimg.com/originals/f9/98/9f/f9989f3c3d3e4223ddfbf06d97b99c12.gif" width="100">
+</a>
+
+
 
 ### Tecnologias que utilizo no meu dia
 
