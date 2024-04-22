@@ -3,7 +3,6 @@
 
 <h3 align="center">Olá <img width="50" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />, eu sou o Ivan</h3><br>
 
-<img align="center" width="1000" height="4" alt="html5" src="https://camo.githubusercontent.com/db8799439b1aac28767bd384d934452a5827197b19480ddbc1b0410768a08408/68747470733a2f2f696e666c6f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30352f7465636e6f6c6f6769612d666c6f72657374612d696e666c6f722e676966"/>
 
 ### Um pouco sobre mim 
 
@@ -12,6 +11,8 @@
 ###### Com mais de 2 anos de experiência em suporte de tecnologia, desenvolvi habilidades de resolução de problemas, comunicação eficaz e uma compreensão profunda das necessidades dos usuários em um ambiente tecnológico.
 
 ###### Minha paixão é por solução de problemas, programação, ciência de dados e banco de dados, onde desejo aplicar meu conhecimento para criar soluções inteligentes e impactantes. 
+
+<img align="center" width="1000" height="4" alt="html5" src="https://camo.githubusercontent.com/db8799439b1aac28767bd384d934452a5827197b19480ddbc1b0410768a08408/68747470733a2f2f696e666c6f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30352f7465636e6f6c6f6769612d666c6f72657374612d696e666c6f722e676966"/>
 
 <br>
 <br>
