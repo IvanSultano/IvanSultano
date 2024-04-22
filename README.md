@@ -1,10 +1,12 @@
-### Olá, eu sou o Ivan Sultano
+<img align="center" width="1000" height="5" alt="html5" src="https://camo.githubusercontent.com/db8799439b1aac28767bd384d934452a5827197b19480ddbc1b0410768a08408/68747470733a2f2f696e666c6f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30352f7465636e6f6c6f6769612d666c6f72657374612d696e666c6f722e676966"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sultano)
+<h1 align="center">Olá <img width="50" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, eu sou o Ivan</h1>
 
 ![Ivan Sultano GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSultano&show_icons=true&theme=Gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSultano&layout=compact)
+
+(https://www.linkedin.com/in/ivan-sultano)
 
 ### Tecnologias que utilizo no meu dia
 
