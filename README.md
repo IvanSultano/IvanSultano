@@ -17,7 +17,7 @@
 </a>
 
 <a href="ivan.domingues@hotmail.com">
-    <img src="https://i.pinimg.com/originals/f9/98/9f/f9989f3c3d3e4223ddfbf06d97b99c12.gif" width="100">
+    <img  borderradius="1" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
 </a>
 
 
